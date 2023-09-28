@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "userName": "Rahul_Mehata",
+      "email": "rahulmahato0852@gmail.com",
+      "password": "Rahul...",
+      "cpassword": "Rahul...",
+      "conformation": true,
+      "TanC": true,
+      "id": 1
+    },
+    {
+      "userName": "Ajax",
+      "email": "ajax@gmail.com",
+      "password": "1212",
+      "cpassword": "1212",
+      "conformation": true,
+      "TanC": true,
+      "id": 2
+    },
+    {
+      "userName": "Ajax",
+      "email": "ajax@gmail.com",
+      "password": "1212",
+      "cpassword": "1212",
+      "conformation": true,
+      "TanC": true,
+      "id": 3
+    },
+    {
+      "userName": "Vishal",
+      "email": "Vishal@gmail.com",
+      "password": "1234",
+      "cpassword": "1234",
+      "conformation": true,
+      "TanC": true,
+      "id": 4
+    }
+  ],
+  "jobs": [
+    {
+      "title": "React js devloper ",
+      "desc": "The react js devloper with the best knowledge of Redux JS And Redux Toolkit...\n--Good Communication skill...\n--Problem solver ..",
+      "category": "Programming",
+      "type": "Part",
+      "remote": "remote",
+      "cname": "SLILLHUB",
+      "cweb": "skillhub.org",
+      "applyType": "E-mail",
+      "email": "rahulmahato0852@gmail.com",
+      "id": 1
+    },
+    {
+      "title": "Backend devloper",
+      "desc": "Need Backend Devloper with hifh qualification",
+      "category": "Programming",
+      "type": "Freelance",
+      "remote": "remote",
+      "cname": "RJD PVT LIMITED",
+      "cweb": "rjd.in",
+      "applyType": "E-mail",
+      "email": "rahulmahato0852@gmail.com",
+      "id": 2
+    },
+    {
+      "title": "Backend devloper",
+      "desc": "Need Backend Devloper with hifh qualification",
+      "category": "Programming",
+      "type": "Freelance",
+      "remote": "remote",
+      "cname": "RJD PVT LIMITED",
+      "cweb": "rjd.in",
+      "applyType": "E-mail",
+      "email": "rahulmahato0852@gmail.com",
+      "id": 3
+    },
+    {
+      "title": "Backend devloper",
+      "desc": "Need Backend Devloper with hifh qualification",
+      "category": "Programming",
+      "type": "Freelance",
+      "remote": "remote",
+      "cname": "RJD PVT LIMITED",
+      "cweb": "rjd.in",
+      "applyType": "E-mail",
+      "email": "rahulmahato0852@gmail.com",
+      "id": 4
+    },
+    {
+      "title": "Backend devloper",
+      "desc": "Need Backend Devloper with hifh qualification",
+      "category": "Programming",
+      "type": "Freelance",
+      "remote": "remote",
+      "cname": "RJD PVT LIMITED",
+      "cweb": "rjd.in",
+      "applyType": "E-mail",
+      "email": "rahulmahato0852@gmail.com",
+      "id": 5
+    },
+    {
+      "title": "full stack devloper",
+      "desc": "lkjhgfdsdfghjhhfhfhfhfhfffffffffffffffffffffffffffffffffffffffffffffhyyyyyyyyyyyyyyyyyyyyyyyyyyhhyfhyfhyf",
+      "category": "Design",
+      "type": "Part",
+      "remote": "remote",
+      "cname": "AAA",
+      "cweb": "aaa.com",
+      "applyType": "E-mail",
+      "email": "shubham123@gmail.com",
+      "id": 6
+    },
+    {
+      "title": "Full stack web devloper..",
+      "desc": "Full stack developers are computer programmers who are proficient in both front and back end coding. Their primary responsibilities include designing user interactions on websites, developing servers, and databases for website functionality, and coding for mobile platforms.",
+      "category": "Programming",
+      "type": "Freelance",
+      "remote": "remote",
+      "cname": "MicroSoft",
+      "cweb": "microsoft.org",
+      "applyType": "E-mail",
+      "email": "rahul123@gmail.com",
+      "id": 7
+    },
+    {
+      "title": "BackEnd Developer",
+      "desc": "Backend developer responsibilities include creating, maintaining, testing, and debugging the entire back end of an application or system. This includes the core application logic, databases, data and application integration, API, and other processes taking place behind the scenes.",
+      "category": "Programming",
+      "type": "Part",
+      "remote": "remote",
+      "cname": "MicroSoft",
+      "cweb": "microsoft.org",
+      "applyType": "E-mail",
+      "email": "rahulmahato0852@gmail.com",
+      "id": 8
+    }
+  ]
+}
